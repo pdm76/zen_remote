@@ -1,0 +1,8 @@
+git status – Make sure your current area is clean.
+git pull – Get the latest version from the remote. This saves merging issues later.
+Edit your files and make your changes. Remember to run your linter and do unit tests!
+git status – Find all files that are changed. Make sure to watch untracked files too!
+git add [files] – Add the changed files to the staging area.
+git commit -m "message" – Make your new commit.
+git push origin [branch-name] – Push your changes up to the remote.
+
